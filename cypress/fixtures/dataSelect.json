@@ -1,0 +1,20 @@
+{
+  "listNameSelect": [
+    {
+      "name": "Name (A to Z)",
+      "val": "az"
+    },
+    {
+      "name": "Name (Z to A)",
+      "val": "az"
+    },
+    {
+      "name": "Price (low to high)",
+      "val": "za"
+    },
+    {
+      "name": "Price (high to low)",
+      "val": "lohi"
+    }
+  ]
+}

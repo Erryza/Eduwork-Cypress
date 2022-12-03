@@ -1,0 +1,9 @@
+{
+    "username": "username",
+    "password": "password",
+    "paye": "Bank of America",
+    "account": "Checking",
+    "amount": "5000",
+    "date": "2022-10-03",
+    "desc": "Testing"
+}
